@@ -23,7 +23,7 @@ function Index() {
                     Made With: 
                 </p>
                 <ul className="mt-5 bg-const-300 w-56 rounded-box">
-                    <li><a className="btn btn-ghost text-3xl rounded-box"><SiTypescript /></a></li>
+                    <li><a className="btn btn-ghost text-3xl  rounded-box"><SiTypescript /></a></li>
                     <li><a className="btn btn-ghost text-3xl  rounded-box"><SiVite /></a></li>
                     <li><a className="btn btn-ghost text-3xl  rounded-box"><SiDaisyui /></a></li>
                 </ul>
